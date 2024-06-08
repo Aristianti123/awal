@@ -1,0 +1,38 @@
+body{  
+    background: #e995d4 url(bg.gif);}  
+    #wrapper{  
+      width: 780px;
+      margin-right: auto;
+      margin-left: auto;
+      font-family: 'Gill Sans', 'Gill Sans MT', 'Times New Roman', Times, serif, 'Trebuchet MS', sans-serif;        
+    }  
+    .kotak {   
+      margin-left:30px;
+      width: 630px;  
+      padding: 20px;  
+      border-radius: 12px;      
+      border: 3px solid rgb(9, 9, 48);     
+    }  
+    #judul{
+      background-color: rgb(219, 82, 82);
+      padding: 2px 5px;
+      text-align: center;
+      font-size: larger;
+    }
+    #title {  
+      color: rgb(6, 6, 31);
+      width: 550px;  
+      margin: 0px 31px;  
+      padding-top: 1px;    
+      font-size: 23px;  
+      font-family: 'Gill Sans', 'Gill Sans MT', 'Times New Roman', Times, serif, 'Trebuchet MS', sans-serif;
+    }  
+    table{
+      background-color: rgb(255, 255, 255);
+    }
+    td{
+      border: rgb(255, 255, 255);
+      font-weight: bold;
+    }    
+    h1{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    h2{font-family: Arial, Helvetica, sans-serif;}
